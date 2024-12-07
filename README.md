@@ -1,0 +1,2 @@
+# runningPaceCalc
+Training pace calculator
